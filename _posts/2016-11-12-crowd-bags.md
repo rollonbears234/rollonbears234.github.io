@@ -36,9 +36,7 @@ author: "Bryan Alcorn"
 <h3>Past Bags</h3>
 <p>I started out with finding Timbuk2 in high school. I first tried the basic messenger and then another random bag from them that was on sale.</p>
 
-<ul>
-  <li>add picture</li>
-</ul>
+![Timbuk 2 Messenger](https://rollonbears234.github.io/images/bags/timbuk2_first.png "First bag I liked")
 
 <p>Then I tried the Osprey Pixel. This bag met a lot of my expectations, such as pockets and organization, but contained the following flaws:</p>
 <ul>
@@ -46,7 +44,10 @@ author: "Bryan Alcorn"
   <li>Side access laptop access, if you forget to close this, the laptop falls right out. I dented my MacBook air because of this</li>
 </ul>
 
-<p>I now have ordered the Everyday BackPack from Indiegogo 30L because I definitely wasn’t satisfied with the Pixel.</p>
+<img src="https://rollonbears234.github.io/images/bags/pixel1.jpg" width="300">
+<img src="https://rollonbears234.github.io/images/bags/pixel2.jpg" width="300">
+
+<p>I now have ordered the Everyday BackPack from Indiegogo 30L because I wasn’t satisfied with the Pixel.</p>
 
 <h3>The Options</h3>
 <p>I want to just jot down a bunch of the bags I have considered and thought cool. From there I will identify more prominent bags that stick out among bags that are already good.</p>
@@ -59,34 +60,34 @@ author: "Bryan Alcorn"
     <p>The Joey surprised me with lots of features at not a bad price, <a href="https://www.kickstarter.com/projects/koalajoey/joey-the-everyday-backpack-that-gives-your-body-a?utm_source=kickbooster&amp;utm_medium=referral&amp;utm_content=link&amp;utm_campaign=dqjdzsfl" title="EveryDay">Joey</a>, $price</p>
   </li>
   <li>
-    <p>Teck packs are definitely catching on, this does not dissapoint in expectations <a href="https://www.kickstarter.com/projects/solgaarddesign/lifepack-solar-powered-and-anti-theft-backpack" title="Tech">LifePack</a>, $Price</p>
+    <p>Teck packs are definitely catching on, this does not dissapoint in expectations, <a href="https://www.kickstarter.com/projects/solgaarddesign/lifepack-solar-powered-and-anti-theft-backpack" title="Tech">LifePack</a>, $Price</p>
   </li>
   <li>
     <p>Cool Camera Bag <a href="https://www.indiegogo.com/projects/prvke-21-the-bag-for-everyday-carry-cameras-photography-backpack#/" title="Camera">prvke-21</a>, $Price</p>
   </li>
   <li>
-    <p>A nice looking messenger, comparable to Timbuk2 <a href="https://www.indiegogo.com/projects/7ven-messenger-the-only-bag-you-need-backpack-design--2#/" title="Messenger">7ven</a>, $Price</p>
+    <p>A nice looking messenger, comparable to Timbuk2, <a href="https://www.indiegogo.com/projects/7ven-messenger-the-only-bag-you-need-backpack-design--2#/" title="Messenger">7ven</a>, $Price</p>
   </li>
   <li>
-    <p>Roll up, kinda innovating bag <a href="https://www.indiegogo.com/projects/henty-copilot-travel-bag--2#/" title="barrel">Henty Copilot</a>, $Price</p>
+    <p>Roll up, kinda innovating bag, <a href="https://www.indiegogo.com/projects/henty-copilot-travel-bag--2#/" title="barrel">Henty Copilot</a>, $Price</p>
   </li>
   <li>
     <p><a href="https://www.kickstarter.com/projects/keeppursuing/worlds-first-backpack-with-4-point-independent-sus" title="Comfort">Zero Gravity</a>, $Price</p>
   </li>
   <li>
-    <p>super slim and function, they also make some of my favorite wallets <a href="https://www.kickstarter.com/projects/667392092/slim-pack-minimal-modular-modern-backpack" title="Slim">Slim Pack</a>, $Price</p>
+    <p>super slim and function, they also make some of my favorite wallets, <a href="https://www.kickstarter.com/projects/667392092/slim-pack-minimal-modular-modern-backpack" title="Slim">Slim Pack</a>, $Price</p>
   </li>
   <li>
     <p>Nice carry on <a href="https://www.kickstarter.com/projects/1898885723/the-arcido-bag-smarter-carry-on-travel" title="Travel">Arcido</a>, $Price</p>
   </li>
   <li>
-    <p>Pretty rugged adventure bag that is also feature rich<a href="https://www.kickstarter.com/projects/standardpacific/the-field-rucksack-an-all-adventures-backpack/description" title="Adventure">Standard Pacific</a>, $Price</p>
+    <p>Pretty rugged adventure bag that is also feature rich, <a href="https://www.kickstarter.com/projects/standardpacific/the-field-rucksack-an-all-adventures-backpack/description" title="Adventure">Standard Pacific</a>, $Price</p>
   </li>
   <li>
     <p>Another tech focused bag, <a href="https://www.indiegogo.com/projects/barracuda-konzu-the-worlds-most-advanced-backpack-business-travel#/" title="tech">Barracude</a>, $Price</p>
   </li>
   <li>
-    <p>One I just ordered, looks awesome, <a href="https://www.kickstarter.com/projects/peak-design/the-everyday-backpack-tote-and-sling?ref=producthunt" title="Everyday">Everyday Backpack</a>, $Price</p>
+    <p><b>One I just ordered, looks awesome, </b><a href="https://www.kickstarter.com/projects/peak-design/the-everyday-backpack-tote-and-sling?ref=producthunt" title="Everyday">Everyday Backpack</a>, $Price</p>
   </li>
   <li>
     <p>Really cool travel bag <a href="https://www.indiegogo.com/projects/the-nomatic-travel-bag-backpack#/" title="travel">Nomatic</a>, $Price</p>

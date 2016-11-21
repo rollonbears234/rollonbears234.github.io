@@ -161,7 +161,7 @@ pre {
 
 .post {
   font-family: "Source Sans Pro";
-  font-size: 18px;
+  font-size: 14px;
   font-weight: 300;
   padding-top: 0; }
 
@@ -394,7 +394,7 @@ pre {
   padding: 0; }
 
 .page-heading {
-  font-size: 20px; }
+  font-size: 16px; }
 
 .post-list {
   margin-left: 0;
@@ -431,7 +431,7 @@ pre {
   margin-bottom: 30px;
   padding-bottom: 3em !important; }
   .post-content p {
-    font-size: 1.5rem; }
+    font-size: 1rem; }
   .post-content h2 {
     font-size: 32px; }
     @media screen and (max-width: 800px) {
