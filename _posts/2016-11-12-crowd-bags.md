@@ -87,7 +87,7 @@ author: "Bryan Alcorn"
     <p>Another tech focused bag, <a href="https://www.indiegogo.com/projects/barracuda-konzu-the-worlds-most-advanced-backpack-business-travel#/" title="tech">Barracude</a>, $Price</p>
   </li>
   <li>
-    <p><b>One I just ordered, looks awesome, </b><a href="https://www.kickstarter.com/projects/peak-design/the-everyday-backpack-tote-and-sling?ref=producthunt" title="Everyday">Everyday Backpack</a>, $Price</p>
+    <p><b>This bag is amazing. I bought it while it was on indiegogo. </b><a href="https://www.kickstarter.com/projects/peak-design/the-everyday-backpack-tote-and-sling?ref=producthunt" title="Everyday">Everyday Backpack</a>, $Price</p>
   </li>
   <li>
     <p>Really cool travel bag <a href="https://www.indiegogo.com/projects/the-nomatic-travel-bag-backpack#/" title="travel">Nomatic</a>, $Price</p>
@@ -100,4 +100,7 @@ author: "Bryan Alcorn"
   </li>
 </ul>
 
-<p>Now add some pictures for the cooler bags</p>
+
+#### Winner: 
+As much as I want to, I haven't bought all the bags in the above list, but the Every Day Backpack from Peak Design is amazing. I have the 30L and have really enjoyed it for Traveling. I used it for a month long trip through Guatamalma, El Salvador, and Honduras, as we as on a week trip to Taiwan. I have seen the 20L and I would prefer that size for actual everyday use, the 30L is too big to use regularily, especially since I am normally minimal and don't need a lot of gear. 
+
