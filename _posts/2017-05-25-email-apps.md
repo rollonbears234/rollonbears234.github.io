@@ -42,14 +42,14 @@ Others:
 
 #### Top Choices
 
-###### Airmail
+##### Airmail
 
 Using this app makes e-mail easier. They have many options for sorting e-mails such as snooze and ToDo or as a Memo. Instead of just saving e-mails in one long list, it helps you organize them into things you have to do or just e-mails that are there for information. I also like the touchbar support and that you can edit e-mails with HTML or Markdown. 
 
-<img src="https://rollonbears234.github.io/images/app_photos/airmail_mac.jpeg" width="300">
+<img src="https://rollonbears234.github.io/images/app_photos/airmail_mac.jpeg" width="700">
 
 
-###### Trove (previously called Notion)
+##### Trove (previously called Notion)
 
 I love the quick swipe feature for this app. I use e-mail on my phone to quickly read through e-mails and organize them so that when I get back to my desktop, I have it organized and ready for me to attent to what is important. This app trains the ML model based on what I mark as archive-able and not. It remembers what I select and automatically marks e-mails as potential junk. When I am ready, it just swipes them all away. I know spam filters already use ML, but I don't want to not see these e-mails, I want to just be able to archive them in one batch if I recognize them all as junk. It makes me feel in control of my e-mail. 
 
