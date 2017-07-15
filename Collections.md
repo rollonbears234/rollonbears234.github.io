@@ -16,12 +16,12 @@ These lists provide resources for topics I care about. The web is too large to e
 #### Education
 
 
-* <a href="../Curratedcontent/tidbits">Tid Bits - Small Learning<a/>	
+* <a href="../Curratedcontent/tidbits.html">Tid Bits - Small Learning<a/>	
 * <a href="https://medium.com/@bcorn/tools-for-learning-russian-7bf9efa57818">Learn Russian<a/>
 	
 #### Tech
 
-* <a href="../Curratedcontent/apps">Apps<a/>	
+* <a href="../Curratedcontent/apps.html">Apps<a/>	
 
 	
 	
