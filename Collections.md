@@ -21,7 +21,7 @@ These lists provide resources for topics I care about. The web is too large to e
 	
 #### Tech
 
-* <a href="../Curratedcontent/apps.htmlwewef">Apps<a/>	
+* <a href="../Curratedcontent/apps.html">Apps<a/>	
 
 	
 	
