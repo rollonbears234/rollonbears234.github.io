@@ -8,21 +8,22 @@ permalink: /about/
 <h2>Bryan Alcorn</h2>
 <h4>UC Berkeley Senior: Statistics, Business Administration, Computer Science </h4>
 
+<img src ="https://rollonbears234.github.io/images/my_about_photo.JPG" width="500">
 
-<hr />
 
-<p>I love products and am an aspiring Product Manager. I love how products can enhance our lives. Next summer I am interning at Google as an associates product manager.</p>
 
+
+<p>I love products and am an aspiring Product Manager. I love how products can enhance our lives. 
+	
 <p>Current Involvements:</p>
 <ol>
-  <li>Windows Systems Administrator for UC Berkeley</li>
+  <li>APM intern at Google</li>
+  <li>Lead Windows Systems Administrator for UC Berkeley</li>
   <li>Barrows House Property Manager</li>
   <li>Club Gymnastics</li>
   <li>Ballroom Club</li>
   <li>Irish Dance</li>
 </ol>
-
-<hr />
 
 <h4>Personal Blog</h4>
 
@@ -37,5 +38,7 @@ I mainly use product hunt and other gear blogs for things to either ogle or down
 
 <p>This project is to make this information useful not only to me, but other people who check out my site.</p>
 
+
 <h4>Resume</h4>
-<p>Download it here</p>
+<a href="https://drive.google.com/file/d/0ByNHPaAlfObFNEZkSzhNb2g2dTA/view?usp=sharing">View Resume Here</a>
+

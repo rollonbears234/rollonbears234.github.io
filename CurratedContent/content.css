@@ -1,0 +1,16 @@
+#back {
+	text-align: center;
+	margin: 10px;
+	width: 50px;
+	outline: 2px solid #999;
+	
+}
+
+
+#back:hover {
+	text-align: center;
+	margin: 10px;
+	width: 50px;
+	outline: 2px solid #999;
+	background: #ddd;
+}
