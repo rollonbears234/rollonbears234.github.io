@@ -8,18 +8,18 @@ author: "Bryan Alcorn"
 
 ### Gym Bags
 
-Since finishing up school, I no longer have the ability to just walk to the gym in my gym clothes, going to the gym in a part of my daily planning and I have to bring all my gym clothes with me. With that comes the need to find a great gym bad. I considered a work bad that also doubles as a gym bag, this way I wouldn't need multiple bags. However, I also like the idea of bringing a sepeate bag just for the gym, this way I can just take my gym bag with me when it is time to work out instead of all my stuff. Having a seperate bag for the gym also makes packing easier because you have more space, flexibility, and a bag for dirty clothes. 
+Since finishing up school, I no longer have the ability to just walk to the gym in my gym clothes, going to the gym in a part of my daily planning and I have to bring all my gym clothes with me. With that comes the need to find a great gym bad. I considered a work bad that also doubles as a gym bag, this way I wouldn't need multiple bags. However, I also like the idea of bringing a separate bag just for the gym, this way I can just take my gym bag with me when it is time to work out instead of all my stuff. Having a separate bag for the gym also makes packing easier because you have more space, flexibility, and a bag for dirty clothes.
 
-Note: I used to use the [Bomber Barrel](http://www.bomberco.com/shop-paracord-survival-gear/bomber-barrel-duffle-bag-set) bag, but it broke. 
+Note: I used to use the [Bomber Barrel](http://www.bomberco.com/shop-paracord-survival-gear/bomber-barrel-duffle-bag-set) bag, but it broke.
 
 ---
 
 
 
-### The choices 
+### The choices
 
 [Aer Gym Duffle](https://www.aersf.com/gym-duffel-00009/) or [Aer Duffel Pack](https://www.aersf.com/duffel-pack-00001)
-   * Note: Aer also makes a nice gym backpack 
+   * Note: Aer also makes a nice gym backpack
 
 [Lululemon In your Element](https://shop.lululemon.com/p/men-bags/In-Your-Element-Duffel/_/prod1960110?oref=https%3A%2F%2Fwww.google.com%2F&rd=true)
 
@@ -39,7 +39,7 @@ Note: I used to use the [Bomber Barrel](http://www.bomberco.com/shop-paracord-su
 
 [Eshow Men's Canvas Travel Luggage Sport](https://www.amazon.com/gp/product/B0196A7W82/ref=as_li_tl?ie=UTF8&tag=rups-bestgymbags-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0196A7W82&linkId=01ea7659a05ac18d7b8ad4bf3d75e84b&ascsubtag=c0538e72-32b8-4057-9af0-c214fc06b1db)
 
-[Americal Apparel Nylon Pack - cheap](http://store.americanapparel.net/en/nylon-pack-cloth-gym-bag_b540;jsessionid=5BBDA15771E21AF822BB499BAB3668C7.aap-prd-dal-app-03-p-app1?c=Gold)
+[American Apparel Nylon Pack - cheap](http://store.americanapparel.net/en/nylon-pack-cloth-gym-bag_b540;jsessionid=5BBDA15771E21AF822BB499BAB3668C7.aap-prd-dal-app-03-p-app1?c=Gold)
 
 [Lulu Cool down duffel](https://shop.lululemon.com/p/men-bags/Cool-Down-Duffel/_/prod1360105?oref=https%3A%2F%2Fwww.google.com%2F&rd=true)
 
@@ -50,10 +50,12 @@ Note: I used to use the [Bomber Barrel](http://www.bomberco.com/shop-paracord-su
 
 [JBird Co.](http://jbirdpdx.com/carry-goods/copy-of-jim-duffle-navy)
 
+[Keep Pursuing Duffle](http://www.keeppursuing.com/shopmen/d6ojb2c67oo7iza4rqo1o4rd6w4c77)
+
 
 
 
 
 ### My Pick
 
-I found a great deal on the old navy bag since it was the fourth of July for only $20. I ended up cancelling my order becauase [Bomber Barrel](http://www.bomberco.com/shop-paracord-survival-gear/bomber-barrel-duffle-bag-set) got back to me and told me they would replace my current broken bag. Lucky me! 
+I found a great deal on the old navy bag since it was the fourth of July for only $20. I ended up cancelling my order because [Bomber Barrel](http://www.bomberco.com/shop-paracord-survival-gear/bomber-barrel-duffle-bag-set) got back to me and told me they would replace my current broken bag. Lucky me!

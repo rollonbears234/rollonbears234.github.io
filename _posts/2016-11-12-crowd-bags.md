@@ -8,9 +8,9 @@ author: "Bryan Alcorn"
 
 <h3> Why start my first post on backpacks?</h3>
 
-<p>I think there are a few items that make life better everyday. Having a great pack comes first because we need something to hold everything. I love having a pack that I can just grab and go and know I can handle anything throught my day.</p>
+<p>I think there are a few items that make life better everyday. Having a great pack comes first because we need something to hold everything. I love having a pack that I can just grab and go and know I can handle anything throughout my day.</p>
 
-<p>In general, I am very careful with my money, but I rationalize spending more for things that really matter and would rather have less things but my thngs be better quality. The things I will be using everyday are worth higher quality beause spreading out the cost/usage, spending more just makes sense.</p>
+<p>In general, I am very careful with my money, but I rationalize spending more for things that really matter and would rather have less things but my things be better quality. The things I will be using everyday are worth higher quality because spreading out the cost/usage, spending more just makes sense.</p>
 
 <h3>Factors</h3>
 
@@ -60,7 +60,7 @@ author: "Bryan Alcorn"
     <p>The Joey surprised me with lots of features at not a bad price, <a href="https://www.kickstarter.com/projects/koalajoey/joey-the-everyday-backpack-that-gives-your-body-a?utm_source=kickbooster&amp;utm_medium=referral&amp;utm_content=link&amp;utm_campaign=dqjdzsfl" title="EveryDay">Joey</a>, $price</p>
   </li>
   <li>
-    <p>Teck packs are definitely catching on, this does not dissapoint in expectations, <a href="https://www.kickstarter.com/projects/solgaarddesign/lifepack-solar-powered-and-anti-theft-backpack" title="Tech">LifePack</a>, $Price</p>
+    <p>Teck packs are definitely catching on, this does not disappoint in expectations, <a href="https://www.kickstarter.com/projects/solgaarddesign/lifepack-solar-powered-and-anti-theft-backpack" title="Tech">LifePack</a>, $Price</p>
   </li>
   <li>
     <p>Cool Camera Bag <a href="https://www.indiegogo.com/projects/prvke-21-the-bag-for-everyday-carry-cameras-photography-backpack#/" title="Camera">prvke-21</a>, $Price</p>
@@ -84,10 +84,10 @@ author: "Bryan Alcorn"
     <p>Pretty rugged adventure bag that is also feature rich, <a href="https://www.kickstarter.com/projects/standardpacific/the-field-rucksack-an-all-adventures-backpack/description" title="Adventure">Standard Pacific</a>, $Price</p>
   </li>
   <li>
-    <p>Another tech focused bag, <a href="https://www.indiegogo.com/projects/barracuda-konzu-the-worlds-most-advanced-backpack-business-travel#/" title="tech">Barracude</a>, $Price</p>
+    <p>Another tech focused bag, <a href="https://www.indiegogo.com/projects/barracuda-konzu-the-worlds-most-advanced-backpack-business-travel#/" title="tech">Barracuda</a>, $Price</p>
   </li>
   <li>
-    <p><b>This bag is amazing. I bought it while it was on indiegogo. </b><a href="https://www.kickstarter.com/projects/peak-design/the-everyday-backpack-tote-and-sling?ref=producthunt" title="Everyday">Everyday Backpack</a>, $Price</p>
+    <p><b>This bag is amazing. I bought it while it was on Indiegogo. </b><a href="https://www.kickstarter.com/projects/peak-design/the-everyday-backpack-tote-and-sling?ref=producthunt" title="Everyday">Everyday Backpack</a>, $Price</p>
   </li>
   <li>
     <p>Really cool travel bag <a href="https://www.indiegogo.com/projects/the-nomatic-travel-bag-backpack#/" title="travel">Nomatic</a>, $Price</p>
@@ -101,6 +101,5 @@ author: "Bryan Alcorn"
 </ul>
 
 
-#### Winner: 
-As much as I want to, I haven't bought all the bags in the above list, but the Every Day Backpack from Peak Design is amazing. I have the 30L and have really enjoyed it for Traveling. I used it for a month long trip through Guatamalma, El Salvador, and Honduras, as we as on a week trip to Taiwan. I have seen the 20L and I would prefer that size for actual everyday use, the 30L is too big to use regularily, especially since I am normally minimal and don't need a lot of gear. 
-
+#### Winner:
+As much as I want to, I haven't bought all the bags in the above list, but the Every Day Backpack from Peak Design is amazing. I have the 30L and have really enjoyed it for Traveling. I used it for a month long trip through Guatemala, El Salvador, and Honduras, as we as on a week trip to Taiwan. I have seen the 20L and I would prefer that size for actual everyday use, the 30L is too big to use regularly, especially since I am normally minimal and don't need a lot of gear. 

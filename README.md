@@ -3,6 +3,18 @@
 </p>
 ---
 
+#Personal Notes and Goals: 
+* You can change the permalink if you want to link to an HTML file
+* You should create a CSS stylesheet for all currated content where it styles all the links and has a back button
+* think about adding pictures to your content
+* I also need a better way to show images, a nice scroll bar would be nice or a container with arrows or something. Or even just stacked nicely. 
+* figure out a better way to add photos to things
+* figur eout how to make stuff go onto multiple pages
+* make the lists better 
+* If you have a bunch of links you should preview them better or 
+* better way to make a comparison table when comparing apps
+
+
 
 If there's any issue you are facing in setting up this theme I'm there for you. Just create an issue in this repository (http://github.com/hemangsk/Gravity), (https://help.github.com/articles/creating-an-issue/) and I'll get back to you asap.
 

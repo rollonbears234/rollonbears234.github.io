@@ -13,16 +13,13 @@ permalink: /about/
 
 
 
-<p>I love products and am an aspiring Product Manager. I love how products can enhance our lives. 
-	
+<p>I love products and am an aspiring Product Manager. I love how products can enhance our lives.</p>
+
 <p>Current Involvements:</p>
 <ol>
-  <li>APM intern at Google</li>
   <li>Lead Windows Systems Administrator for UC Berkeley</li>
   <li>Barrows House Property Manager</li>
-  <li>Club Gymnastics</li>
-  <li>Ballroom Club</li>
-  <li>Irish Dance</li>
+  <li>Job Hunting</li>
 </ol>
 
 <h4>Personal Blog</h4>
@@ -32,13 +29,12 @@ permalink: /about/
 <h4>Motivation</h4>
 
 <p>Every day I look on the web for products to improve my workflow on my computer and in my daily life.
-I mainly use product hunt and other gear blogs for things to either ogle or download and experiement with.</p>
+I mainly use product hunt and other gear blogs for things to either ogle or download and experiment with.</p>
 
-<p>Up until this point, I save things to pocket, flipboard, my bookmarks, evernote, and wunderlist. This has been fun for me and I feel like I acccumilate more information everyday, but I realize now I have problems synthesiazing that information. I also write in my journal every day, mostly tidbits of advice I gather throughout the day or thoughts/frustrations on products.</p>
+<p>Up until this point, I save things to pocket, Flipboard, my bookmarks, Evernote, and Wunderlist. This has been fun for me and I feel like I accumulate more information everyday, but I realize now I have problems synthesizing that information. I also write in my journal every day, mostly tidbits of advice I gather throughout the day or thoughts/frustrations on products.</p>
 
 <p>This project is to make this information useful not only to me, but other people who check out my site.</p>
 
 
 <h4>Resume</h4>
 <a href="https://drive.google.com/file/d/0ByNHPaAlfObFNEZkSzhNb2g2dTA/view?usp=sharing">View Resume Here</a>
-
